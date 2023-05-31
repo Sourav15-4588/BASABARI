@@ -243,13 +243,13 @@ section {
 	vertical-align: top;
 }
 
-/* Footer left */
+
 
 .footer-distributed .footer-left{
 	width: 40%;
 }
 
-/* The company logo */
+
 
 .footer-distributed .footer-left .company img{
 	height: 10;
@@ -259,7 +259,7 @@ section {
 	color:  lightseagreen;
 }
 
-/* Footer links */
+
 
 .footer-distributed .footer-links{
 	color:  #ffffff;
@@ -282,7 +282,7 @@ section {
 	margin: 0;
 }
 
-/* Footer Center */
+
 
 .footer-distributed .footer-center{
 	width: 35%;
